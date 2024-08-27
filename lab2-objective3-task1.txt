@@ -1,0 +1,14 @@
+Objective 3: ALGORITHM
+
+Task 1: Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).
+If so, determine if it’s an even number or odd number as well.
+
+
+1.Ask the user to enter N
+2.Ask the user to enter n
+3.Calculate the value of n MOD N
+4.Calculate the value of N MOD 2
+5.If value of n MOD N is 0 then N is a divisor otherwise not
+6.If value of N MOD 2 is 0 then N is even otherwise odd
+7.Display whether N is a divisor
+8.Display whether N is even or odd

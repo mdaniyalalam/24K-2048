@@ -1,0 +1,14 @@
+Objective 3: ALGORITHM
+
+Task 3: Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
+
+
+1.Ask the user to enter the numbers
+2.Ask the user for the operator
+3.Perform the operation based on the operator
+  for '*', result  = num1 * num2
+  for '/', result = num1 / num2
+  for '-', result = num1 - num2
+  for '+',result = num1 + num2
+  for '%', result = num1 % num2
+4.Display the result of the operation
