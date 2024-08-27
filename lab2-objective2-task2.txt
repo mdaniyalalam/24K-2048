@@ -1,0 +1,13 @@
+Objective 2: PSEUDOCODE
+
+Task 2: Take three variables as input and add them without using the + operator
+
+INPUT Number1
+INPUT Number2
+INPUT Number3
+
+SET Result to 0
+
+Result = Number1 - (Number2 * -1) - (Number3 * -1)
+
+OUTPUT Result
