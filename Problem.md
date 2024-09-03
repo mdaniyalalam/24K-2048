@@ -4,8 +4,8 @@ Task 1: Implement an algorithm for determining if an Nth is a divisor of an n Nu
 If so, determine if it’s an even number or odd number as well.
 
 
-1.Ask the user to enter N
-2.Ask the user to enter n
+1.Ask the user to enter N/
+2.Ask the user to enter n/
 3.Calculate the value of n MOD N
 4.Calculate the value of N MOD 2
 5.If value of n MOD N is 0 then N is a divisor otherwise not
